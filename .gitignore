@@ -5,6 +5,7 @@ out/
 
 # Dev Environment
 run/
+run-data/
 
 # IDE
 .vscode/
