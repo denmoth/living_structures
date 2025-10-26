@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="living_structures"
+version="1.0.0"
+displayName="Living Structures"
+authors="DenMoth"
+description='''Структуры, которые живут, стареют и восстанавливаются со временем.'''
+logoFile="assets/living_structures/textures/logo.png"

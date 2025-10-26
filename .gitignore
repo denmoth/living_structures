@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Dev Environment
+run/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
+
+# Java
+*.class
+
+# OS files
+Thumbs.db
+desktop.ini
